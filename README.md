@@ -1,4 +1,4 @@
-# A Research on Piezoelectric Electric Elements as a new sustainable energy resource with the emphasis on Roads, Railways and Pathways
+# A Research on Piezoelectric Elements as a new sustainable energy resource with the emphasis on Roads, Railways and Pathways
 
 ---
 <!-- Uncomment following line if Extended Essay Submitted -->
@@ -9,7 +9,7 @@
 
 ## 1. General
 
-This repository was used by my Supervisor [@ivo-bloechliger](https://github.com/ivo-bloechliger) and me to work on my IB Extended Essay. It consisted of coding a program to meassure and evaluate the electric outcome of a Piezoelectric Element, which could potentially be used as an alternative Energy Resource.
+This repository is used by my Supervisor [@ivo-bloechliger](https://github.com/ivo-bloechliger) and me to work on my IB Extended Essay. It consist of coding a program to meassure and evaluate the electric outcome of a Piezoelectric Element, which could potentially be used as an alternative Energy Resource.
 
 ---
 
@@ -27,4 +27,4 @@ Added Soon!
 
 ## Copyright
 
-This Project is not copyrighted. Please leave the comment at the beginning of the code for support.
+ <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p> 
