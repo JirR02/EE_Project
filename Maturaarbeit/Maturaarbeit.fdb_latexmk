@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber Maturaarbeit"] 1673727113 "Maturaarbeit.bcf" "Maturaarbeit.bbl" "Maturaarbeit" 1673727700 0
-  "Maturaarbeit.bcf" 1673727699 106637 ac36c84e4730ceb6feb7df9c175fc328 "pdflatex"
+["biber Maturaarbeit"] 1673727113 "Maturaarbeit.bcf" "Maturaarbeit.bbl" "Maturaarbeit" 1673729067 0
+  "Maturaarbeit.bcf" 1673729067 106637 ac36c84e4730ceb6feb7df9c175fc328 "pdflatex"
   (generated)
   "Maturaarbeit.bbl"
   "Maturaarbeit.blg"
   (rewritten before read)
-["makeindex Maturaarbeit.idx"] 1673727112 "Maturaarbeit.idx" "Maturaarbeit.ind" "Maturaarbeit" 1673727700 0
-  "Maturaarbeit.idx" 1673727698 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex Maturaarbeit.idx"] 1673727112 "Maturaarbeit.idx" "Maturaarbeit.ind" "Maturaarbeit" 1673729067 0
+  "Maturaarbeit.idx" 1673729066 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "Maturaarbeit.ilg"
   "Maturaarbeit.ind"
   (rewritten before read)
-["pdflatex"] 1673727697 "c:/Users/Jirayu/Repos/Private_Projects/EE_Project/Maturaarbeit/Maturaarbeit.tex" "Maturaarbeit.pdf" "Maturaarbeit" 1673727700 0
+["pdflatex"] 1673729064 "c:/Users/Jirayu/Repos/Private_Projects/EE_Project/Maturaarbeit/Maturaarbeit.tex" "Maturaarbeit.pdf" "Maturaarbeit" 1673729067 0
   "Analysis.tex" 1673715765 2119 de9f02c7dc5b691a278405840d3daae4 ""
   "Conclusion.tex" 1673720335 2932 7e2860dc26090b69ab61eae27a385203 ""
   "Experiment.tex" 1673717783 12833 654998c24190983c0c353139599f249f ""
@@ -31,16 +31,16 @@
   "Figure_7.jpg" 1673717062 113230 0d148ac97e0a16449fece243353515b3 ""
   "Figure_8.jpg" 1673535301 2342811 4d27842d79a603b5c5ca800d5ce3a012 ""
   "Figure_9.jpg" 1673535364 84327 40a2129a6d2623604db7dc9f12c9e89b ""
-  "Introduction.tex" 1673717153 3312 8d704f894783ff7731d94970801a2971 ""
-  "Maturaarbeit.aux" 1673727699 9168 ffb7516f27d5f2ce2e91f5a127f9eed4 "pdflatex"
+  "Introduction.tex" 1673729063 3307 4be553bdb50c539492718a82202e1d87 ""
+  "Maturaarbeit.aux" 1673729067 9168 ffb7516f27d5f2ce2e91f5a127f9eed4 "pdflatex"
   "Maturaarbeit.bbl" 1673727115 486 ee04f40f768daeed26442158e95aba61 "biber Maturaarbeit"
   "Maturaarbeit.ind" 1673727113 0 d41d8cd98f00b204e9800998ecf8427e "makeindex Maturaarbeit.idx"
-  "Maturaarbeit.lof" 1673727699 1797 74b190f778fa6ced15693e8171424762 "pdflatex"
-  "Maturaarbeit.lol" 1673727699 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Maturaarbeit.out" 1673727699 2449 05fad3f5a0db3f7be02745b5286b6ff6 "pdflatex"
-  "Maturaarbeit.run.xml" 1673727699 2457 3ad6a7161b90ce5b78d3e9a56a8631be "pdflatex"
+  "Maturaarbeit.lof" 1673729067 1797 74b190f778fa6ced15693e8171424762 "pdflatex"
+  "Maturaarbeit.lol" 1673729067 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Maturaarbeit.out" 1673729067 2449 05fad3f5a0db3f7be02745b5286b6ff6 "pdflatex"
+  "Maturaarbeit.run.xml" 1673729067 2457 3ad6a7161b90ce5b78d3e9a56a8631be "pdflatex"
   "Maturaarbeit.tex" 1673727693 13245 422c5d77c2837e87d581b51fd2330139 ""
-  "Maturaarbeit.toc" 1673727699 1433 05a1e26752b3171814717224499eed57 "pdflatex"
+  "Maturaarbeit.toc" 1673729067 1433 05a1e26752b3171814717224499eed57 "pdflatex"
   "Piezoelectric_Elements.tex" 1673718369 7787 18fe0b28b8172802a6fc58c017d5c38c ""
   "Theoretical_Approaches.tex" 1673715213 2610 eb8a92780ac5a30bd17578a34d54ef6d ""
   "c:/Users/Jirayu/Repos/Private_Projects/EE_Project/Maturaarbeit/Maturaarbeit.tex" 1673727693 13245 422c5d77c2837e87d581b51fd2330139 ""
