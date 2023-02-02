@@ -1,4 +1,4 @@
-\documentclass[a4paper,12pt]{report}
+\documentclass[a4paper,11pt]{report}
 
 % Diese Datei ist fast vollständig von der Maturaarbeit
 %
@@ -23,12 +23,7 @@
 \usepackage{caption}              % Erweiterte Beschriftungen
 \usepackage{subcaption}           % Unterbeschriftungen
 \usepackage{geometry}             % Seitenränder
-\geometry{
-  a4paper,
-  left=25mm,
-  top=25mm,
-}
-\usepackage[doublespacing]{setspace}             % Zeilenabstand
+\usepackage{setspace}             % Zeilenabstand
 \usepackage{fancyhdr}             % Header und Footer
 \usepackage{graphicx}             % Grafiken
 \usepackage{svg}                  % SVG Grafiken
@@ -208,7 +203,8 @@ bookmarksnumbered=true     % Kapitelnummern in Lesezeichen?
 \input{Introduction.tex} %      \
 \input{Piezoelectric_Elements.tex} %       \
 \input{Experiment.tex} %        \
-\input{Theoretical_Approaches.tex} %     \
+\input{Theoretical_Approach.tex}
+\input{Literature.tex} %     \
 \input{Analysis.tex} %      \
 \input{Conclusion.tex}
 % --------------------------
@@ -247,9 +243,6 @@ bookmarksnumbered=true     % Kapitelnummern in Lesezeichen?
 % =========== START VON ANHÄNGE ===========
 \appendix
 
-% === EIGENSTÄNDIGKEITSERKLÄRUNG ===
-\chapter{Declaration of Original Work}\label{ch:appendix_independencedeclaration}
-\input{eigenstaendigkeit}
 % ----------------------------------
 
 % =========== ENDE VON ANHÄNGE ============
@@ -299,7 +292,7 @@ bookmarksnumbered=true     % Kapitelnummern in Lesezeichen?
 \geometry{
   a4paper,
   total={150mm,237mm},
-  left=25mm,
+  left=25cm,
   top=25mm,
 }
 \usepackage[normalem]{ulem} % Strikethrough text

@@ -1,0 +1,17 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'Maturaarbeit.blg'
+[113] biber-MSWIN32:340> INFO - === 
+[156] Biber.pm:418> INFO - Reading 'Maturaarbeit.bcf'
+[282] Biber.pm:978> INFO - Found 12 citekeys in bib section 0
+[296] Biber.pm:4401> INFO - Processing section 0
+[309] Biber.pm:4592> INFO - Looking for bibtex file 'literatur.bib' for section 0
+[364] bibtex.pm:1713> INFO - LaTeX decoding ...
+[380] bibtex.pm:1518> INFO - Found BibTeX data source 'literatur.bib'
+[451] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[453] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[453] Biber.pm:4221> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[453] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[465] bbl.pm:654> INFO - Writing 'Maturaarbeit.bbl' with encoding 'UTF-8'
+[470] bbl.pm:757> INFO - Output to Maturaarbeit.bbl
+[471] Biber.pm:130> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[471] Biber.pm:132> INFO - WARNINGS: 1

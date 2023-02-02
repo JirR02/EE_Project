@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.6)  14 JAN 2023 21:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.6)  2 FEB 2023 23:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -889,7 +889,7 @@ Package hyperref Info: Link coloring OFF on input line 183.
 \openout6 = `Maturaarbeit.out'.
 
  (./title.tex
-<img/pdf//title_logo.pdf, id=87, 569.00624pt x 220.53946pt>
+<img/pdf//title_logo.pdf, id=99, 569.00624pt x 220.53946pt>
 File: img/pdf//title_logo.pdf Graphic file (type pdf)
 <use img/pdf//title_logo.pdf>
 Package pdftex.def Info: img/pdf//title_logo.pdf  used on input line 4.
@@ -936,7 +936,7 @@ Chapter 1.
 
 ]) (./Piezoelectric_Elements.tex [3.4]
 Chapter 2.
-<./Figure_1.jpg, id=132, 1674.255pt x 1674.255pt>
+<./Figure_1.jpg, id=152, 1674.255pt x 1674.255pt>
 File: ./Figure_1.jpg Graphic file (type jpg)
 <use ./Figure_1.jpg>
 Package pdftex.def Info: ./Figure_1.jpg  used on input line 8.
@@ -956,7 +956,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--14
 
  []
 
-<./Figure_2.jpg, id=133, 1674.255pt x 1674.255pt>
+<./Figure_2.jpg, id=155, 1674.255pt x 1674.255pt>
 File: ./Figure_2.jpg Graphic file (type jpg)
 <use ./Figure_2.jpg>
 Package pdftex.def Info: ./Figure_2.jpg  used on input line 16.
@@ -967,11 +967,16 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 See the caption package documentation for explanation.
 
 
+Underfull \hbox (badness 1122) in paragraph at lines 21--22
+[]\T1/lmr/m/n/10.95 In the be-gin-ning the av-er-age po-si-tion of the charges
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
 
-<./Figure_3.jpg, id=134, 1674.255pt x 1674.255pt>
+<./Figure_3.jpg, id=158, 1674.255pt x 1674.255pt>
 File: ./Figure_3.jpg Graphic file (type jpg)
 <use ./Figure_3.jpg>
 Package pdftex.def Info: ./Figure_3.jpg  used on input line 24.
@@ -994,75 +999,65 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--31
 [4.5
 
  <./Figure_1.jpg> <./Figure_2.jpg>]
-<./Figure_4.jpg, id=141, 1674.255pt x 1674.255pt>
+<./Figure_4.jpg, id=170, 1674.255pt x 1674.255pt>
 File: ./Figure_4.jpg Graphic file (type jpg)
 <use ./Figure_4.jpg>
-Package pdftex.def Info: ./Figure_4.jpg  used on input line 36.
+Package pdftex.def Info: ./Figure_4.jpg  used on input line 35.
 (pdftex.def)             Requested size: 140.84192pt x 140.84084pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 37.
+(caption)                particular \caption on input line 36.
 See the caption package documentation for explanation.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--37
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
 []\T1/lmr/m/n/10.95 Figure 2.4: |[]Quartzcell
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--44
+Underfull \hbox (badness 10000) in paragraph at lines 33--43
 
  []
 
-<./Figure_5.jpg, id=143, 145.29282pt x 167.12437pt>
+<./Figure_5.jpg, id=175, 145.29282pt x 167.12437pt>
 File: ./Figure_5.jpg Graphic file (type jpg)
 <use ./Figure_5.jpg>
-Package pdftex.def Info: ./Figure_5.jpg  used on input line 51.
+Package pdftex.def Info: ./Figure_5.jpg  used on input line 50.
 (pdftex.def)             Requested size: 140.84192pt x 162.01607pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 52.
+(caption)                particular \caption on input line 51.
 See the caption package documentation for explanation.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 78.
+(caption)                particular \caption on input line 77.
 See the caption package documentation for explanation.
 
 
-Underfull \hbox (badness 2189) in paragraph at lines 82--83
-[]\T1/lmr/m/n/10.95 From Ta-ble []2.1[], one can see that the
- []
-
-
-Underfull \hbox (badness 1237) in paragraph at lines 82--83
-\T1/lmr/m/n/10.95 forms well un-der the spe-cific stress and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--83
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
 
  []
 
 
-Overfull \hbox (2.43332pt too wide) in paragraph at lines 47--85
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 46--84
 []$ $[]$
  []
 
 [5.6 <./Figure_3.jpg> <./Figure_4.jpg>] [6.7 <./Figure_5.jpg>]) (./Experiment.tex [7.8]
 Chapter 3.
-<./Figure_6.jpg, id=172, 4047.12pt x 2276.505pt>
+<./Figure_6.jpg, id=210, 4047.12pt x 2276.505pt>
 File: ./Figure_6.jpg Graphic file (type jpg)
 <use ./Figure_6.jpg>
 Package pdftex.def Info: ./Figure_6.jpg  used on input line 6.
@@ -1082,7 +1077,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
-<./Figure_7.jpg, id=173, 1674.255pt x 1674.255pt>
+<./Figure_7.jpg, id=212, 1674.255pt x 1674.255pt>
 File: ./Figure_7.jpg Graphic file (type jpg)
 <use ./Figure_7.jpg>
 Package pdftex.def Info: ./Figure_7.jpg  used on input line 14.
@@ -1097,7 +1092,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
 
-<./Figure_8.jpg, id=174, 4047.12pt x 2276.505pt>
+<./Figure_8.jpg, id=214, 4047.12pt x 2276.505pt>
 File: ./Figure_8.jpg Graphic file (type jpg)
 <use ./Figure_8.jpg>
 Package pdftex.def Info: ./Figure_8.jpg  used on input line 22.
@@ -1107,7 +1102,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 23.
 See the caption package documentation for explanation.
 
-<./Figure_9.jpg, id=175, 1674.255pt x 1674.255pt>
+<./Figure_9.jpg, id=215, 1674.255pt x 1674.255pt>
 File: ./Figure_9.jpg Graphic file (type jpg)
 <use ./Figure_9.jpg>
 Package pdftex.def Info: ./Figure_9.jpg  used on input line 27.
@@ -1123,17 +1118,6 @@ Underfull \hbox (badness 6691) in paragraph at lines 32--33
  []
 
 
-Underfull \hbox (badness 2671) in paragraph at lines 32--33
-\T1/lmr/m/n/10.95 were con-nected in par-al-lel
- []
-
-
-Underfull \hbox (badness 2189) in paragraph at lines 32--33
-\T1/lmr/m/n/10.95 in ad-di-tion with a $\OT1/lmr/m/n/10.95 470\OML/lmm/m/it/10.95 k\OT1/lmr/m/n/10.95 
-$
- []
-
-
 Underfull \hbox (badness 2538) in paragraph at lines 32--33
 \T1/lmr/m/n/10.95 then par-al-lel con-nected to
  []
@@ -1143,7 +1127,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
-<./Figure_10.jpg, id=177, 4047.12pt x 2276.505pt>
+<./Figure_10.jpg, id=218, 4047.12pt x 2276.505pt>
 File: ./Figure_10.jpg Graphic file (type jpg)
 <use ./Figure_10.jpg>
 Package pdftex.def Info: ./Figure_10.jpg  used on input line 35.
@@ -1161,135 +1145,55 @@ Overfull \hbox (0.60109pt too wide) in paragraph at lines 5--42
 [8.9
 
  <./Figure_6.jpg> <./Figure_7.jpg>]
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 112.
-See the caption package documentation for explanation.
-
-<./Figure_11.png, id=184, 242.871pt x 217.467pt>
-File: ./Figure_11.png Graphic file (type png)
-<use ./Figure_11.png>
-Package pdftex.def Info: ./Figure_11.png  used on input line 116.
-(pdftex.def)             Requested size: 213.39566pt x 191.08284pt.
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 117.
-See the caption package documentation for explanation.
+<Figure_11.jpeg, id=226, 1387.584pt x 698.8509pt>
+File: Figure_11.jpeg Graphic file (type jpg)
+<use Figure_11.jpeg>
+Package pdftex.def Info: Figure_11.jpeg  used on input line 67.
+(pdftex.def)             Requested size: 426.79134pt x 214.94603pt.
 
 
-Overfull \hbox (2.43332pt too wide) in paragraph at lines 67--120
-$[]$ $[]$ 
- []
-
-[9.10 <./Figure_8.jpg> <./Figure_9.jpg> <./Figure_10.jpg>] [10.11 <./Figure_11.png>]
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 178.
-See the caption package documentation for explanation.
-
-<./Figure_12.png, id=200, 242.652pt x 217.467pt>
-File: ./Figure_12.png Graphic file (type png)
-<use ./Figure_12.png>
-Package pdftex.def Info: ./Figure_12.png  used on input line 182.
-(pdftex.def)             Requested size: 213.39566pt x 191.25539pt.
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 183.
-See the caption package documentation for explanation.
-
-
-Overfull \hbox (19.43332pt too wide) in paragraph at lines 121--186
-[]$[]$ $[]$ 
- []
-
-[11.12 <./Figure_12.png>]
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 244.
-See the caption package documentation for explanation.
-
-<./Figure_13.png, id=208, 244.185pt x 217.467pt>
-File: ./Figure_13.png Graphic file (type png)
-<use ./Figure_13.png>
-Package pdftex.def Info: ./Figure_13.png  used on input line 248.
-(pdftex.def)             Requested size: 213.39566pt x 190.05417pt.
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 249.
-See the caption package documentation for explanation.
-
-
-Overfull \hbox (19.43332pt too wide) in paragraph at lines 189--252
-[]$[]$ $[]$ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 255--256
-
- []
-
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 302.
-See the caption package documentation for explanation.
-
-<./Figure_14.png, id=209, 241.119pt x 217.467pt>
-File: ./Figure_14.png Graphic file (type png)
-<use ./Figure_14.png>
-Package pdftex.def Info: ./Figure_14.png  used on input line 306.
-(pdftex.def)             Requested size: 213.39566pt x 192.46988pt.
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 307.
+Package caption Warning: \captionsetup{type*=...} or \captionof
+(caption)                outside box or environment on input line 68.
 See the caption package documentation for explanation.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 367.
+(caption)                particular \caption on input line 68.
 See the caption package documentation for explanation.
 
-<./Figure_15.png, id=210, 240.462pt x 217.467pt>
-File: ./Figure_15.png Graphic file (type png)
-<use ./Figure_15.png>
-Package pdftex.def Info: ./Figure_15.png  used on input line 371.
-(pdftex.def)             Requested size: 213.39566pt x 192.99416pt.
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 372.
-See the caption package documentation for explanation.
+[9.10 <./Figure_8.jpg> <./Figure_9.jpg> <./Figure_10.jpg>]
+<Figure_12.jpg, id=236, 1674.255pt x 843.15pt>
+File: Figure_12.jpg Graphic file (type jpg)
+<use Figure_12.jpg>
+Package pdftex.def Info: Figure_12.jpg  used on input line 72.
+(pdftex.def)             Requested size: 426.79134pt x 214.92964pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 416.
+(caption)                particular \caption on input line 73.
 See the caption package documentation for explanation.
 
-<./Figure_16.png, id=211, 242.652pt x 217.467pt>
-File: ./Figure_16.png Graphic file (type png)
-<use ./Figure_16.png>
-Package pdftex.def Info: ./Figure_16.png  used on input line 420.
-(pdftex.def)             Requested size: 213.39566pt x 191.25539pt.
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 421.
-See the caption package documentation for explanation.
-
-
-Overfull \hbox (19.43332pt too wide) in paragraph at lines 257--424
-[]$[]$ $[]$
- []
-
-
-Overfull \hbox (2.43332pt too wide) in paragraph at lines 257--424
-[]$ $[]$
- []
-
-
-Overfull \hbox (2.43332pt too wide) in paragraph at lines 257--424
-[]$ $[]$ 
- []
-
-[12.13 <./Figure_13.png>] [13.14 <./Figure_14.png>] [14.15 <./Figure_15.png>]) (./Theoretical_Approaches.tex [15.16 <./Figure_16.png>]
+) (./Theoretical_Approach.tex [10.11 <./Figure_11.jpeg> <./Figure_12.jpg>] [11.12]
 Chapter 4.
+<Figure_13.jpg, id=249, 1673.25125pt x 942.52126pt>
+File: Figure_13.jpg Graphic file (type jpg)
+<use Figure_13.jpg>
+Package pdftex.def Info: Figure_13.jpg  used on input line 13.
+(pdftex.def)             Requested size: 426.79134pt x 240.40446pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 14.
+See the caption package documentation for explanation.
+
+[12.13
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+) (./Literature.tex [13.14 <./Figure_13.jpg>]
+Chapter 5.
 ) (./Analysis.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--1
 
@@ -1300,22 +1204,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--1
 
  []
 
-[16.17
+[14.15
 
-] [17.18]
-Chapter 5.
+] [15.16]
+Chapter 6.
 ) (./Conclusion.tex
 Underfull \hbox (badness 10000) in paragraph at lines 5--1
 
  []
 
-) [18.19
+) [16.17
 
-] [19.20] (./Maturaarbeit.ind) (./Maturaarbeit.lof)
+] [17.18] (./Maturaarbeit.ind) (./Maturaarbeit.lof)
 \tf@lof=\write8
 \openout8 = `Maturaarbeit.lof'.
 
- [20.21
+ [18.19
 
 
 
@@ -1323,17 +1227,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--1
 \tf@lol=\write9
 \openout9 = `Maturaarbeit.lol'.
 
- [21.22
+ [19.20
 
 
-]
+] [20.21
 
-LaTeX Warning: Empty bibliography on input line 247.
 
+] [21.22]
 Appendix A.
 (./eigenstaendigkeit.tex)
-Overfull \hbox (0.82687pt too wide) in paragraph at lines 4--259
-[]  
+Underfull \hbox (badness 10000) in paragraph at lines 4--260
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--260
+
  []
 
 (c:/texlive/2022/texmf-dist/tex/generic/stringenc/se-utf8.def
@@ -1342,27 +1251,26 @@ File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ) [22.23
 
-
 ] (./Maturaarbeit.aux)
 Package rerunfilecheck Info: File `Maturaarbeit.out' has not changed.
-(rerunfilecheck)             Checksum: 05FAD3F5A0DB3F7BE02745B5286B6FF6;2449.
+(rerunfilecheck)             Checksum: BA9A94BB087977E995831C0D0B440210;2695.
 Package logreq Info: Writing requests to 'Maturaarbeit.run.xml'.
 \openout1 = `Maturaarbeit.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24692 strings out of 476093
- 441207 string characters out of 5795584
- 1870787 words of memory out of 5000000
- 44562 multiletter control sequences out of 15000+600000
- 566377 words of font info for 60 fonts, out of 8000000 for 9000
+ 24924 strings out of 476093
+ 446687 string characters out of 5795584
+ 1865787 words of memory out of 5000000
+ 44786 multiletter control sequences out of 15000+600000
+ 570640 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,19n,92p,1588b,805s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr6.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Maturaarbeit.pdf (23 pages, 8442786 bytes).
+ 94i,19n,92p,1618b,1451s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr6.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtl10.pfb>
+Output written on Maturaarbeit.pdf (23 pages, 8564903 bytes).
 PDF statistics:
- 368 PDF objects out of 1000 (max. 8388607)
- 292 compressed objects within 3 object streams
- 69 named destinations out of 1000 (max. 500000)
- 262 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 444 PDF objects out of 1000 (max. 8388607)
+ 368 compressed objects within 4 object streams
+ 76 named destinations out of 1000 (max. 500000)
+ 271 words of extra memory for PDF output out of 10000 (max. 10000000)
 

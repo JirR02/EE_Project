@@ -1,9 +1,17 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'Maturaarbeit.blg'
-[118] biber-MSWIN32:340> INFO - === 
-[166] Biber.pm:418> INFO - Reading 'Maturaarbeit.bcf'
-[295] Biber.pm:978> INFO - Found 0 citekeys in bib section 0
-[310] bbl.pm:654> INFO - Writing 'Maturaarbeit.bbl' with encoding 'UTF-8'
-[310] bbl.pm:757> INFO - Output to Maturaarbeit.bbl
-[311] Biber.pm:130> WARN - The file 'Maturaarbeit.bcf' does not contain any citations!
-[311] Biber.pm:132> INFO - WARNINGS: 1
+[110] biber-MSWIN32:340> INFO - === 
+[153] Biber.pm:418> INFO - Reading 'Maturaarbeit.bcf'
+[268] Biber.pm:978> INFO - Found 12 citekeys in bib section 0
+[282] Biber.pm:4401> INFO - Processing section 0
+[294] Biber.pm:4592> INFO - Looking for bibtex file 'literatur.bib' for section 0
+[361] bibtex.pm:1713> INFO - LaTeX decoding ...
+[375] bibtex.pm:1518> INFO - Found BibTeX data source 'literatur.bib'
+[450] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[451] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[452] Biber.pm:4221> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[452] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[469] bbl.pm:654> INFO - Writing 'Maturaarbeit.bbl' with encoding 'UTF-8'
+[474] bbl.pm:757> INFO - Output to Maturaarbeit.bbl
+[474] Biber.pm:130> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[474] Biber.pm:132> INFO - WARNINGS: 1

@@ -16,5 +16,365 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Mumcu2021}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=39b72fbef805b303fc6b18e33f72fa9c}{%
+           family={Mumcu},
+           familyi={M\bibinitperiod},
+           given={Yelda\bibnamedelima Karatepe},
+           giveni={Y\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{39b72fbef805b303fc6b18e33f72fa9c}
+      \strng{fullhash}{39b72fbef805b303fc6b18e33f72fa9c}
+      \strng{bibnamehash}{39b72fbef805b303fc6b18e33f72fa9c}
+      \strng{authorbibnamehash}{39b72fbef805b303fc6b18e33f72fa9c}
+      \strng{authornamehash}{39b72fbef805b303fc6b18e33f72fa9c}
+      \strng{authorfullhash}{39b72fbef805b303fc6b18e33f72fa9c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{12}
+      \field{title}{A review of the generation of electrical energy with renewable energy sourced piezoelectric material}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://www.injirr.com/article/view/86
+      \endverb
+      \verb{url}
+      \verb http://www.injirr.com/article/view/86
+      \endverb
+    \endentry
+    \entry{Wikipedia2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Piezoelectricity}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Piezoelectricity
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Piezoelectricity
+      \endverb
+    \endentry
+    \entry{Mould2019}{online}{}
+      \name{author}{1}{}{%
+        {{hash=dde62887440223f71b2ab55c55314f11}{%
+           family={Mould},
+           familyi={M\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{dde62887440223f71b2ab55c55314f11}
+      \strng{fullhash}{dde62887440223f71b2ab55c55314f11}
+      \strng{bibnamehash}{dde62887440223f71b2ab55c55314f11}
+      \strng{authorbibnamehash}{dde62887440223f71b2ab55c55314f11}
+      \strng{authornamehash}{dde62887440223f71b2ab55c55314f11}
+      \strng{authorfullhash}{dde62887440223f71b2ab55c55314f11}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{16}
+      \field{month}{5}
+      \field{title}{Piezoelectricity - why hitting crystals makes electricity}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=wcJXA8IqYl8
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=wcJXA8IqYl8
+      \endverb
+    \endentry
+    \entry{Elprocus2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b4fd77e339c610d5fbe942fc15e7fa7a}{%
+           family={Elprocus},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{b4fd77e339c610d5fbe942fc15e7fa7a}
+      \strng{fullhash}{b4fd77e339c610d5fbe942fc15e7fa7a}
+      \strng{bibnamehash}{b4fd77e339c610d5fbe942fc15e7fa7a}
+      \strng{authorbibnamehash}{b4fd77e339c610d5fbe942fc15e7fa7a}
+      \strng{authornamehash}{b4fd77e339c610d5fbe942fc15e7fa7a}
+      \strng{authorfullhash}{b4fd77e339c610d5fbe942fc15e7fa7a}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is the Piezoelectric Effect – Working and its Applications}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.elprocus.com/what-is-the-piezoelectric-effect-working-and-its-applications/
+      \endverb
+      \verb{url}
+      \verb https://www.elprocus.com/what-is-the-piezoelectric-effect-working-and-its-applications/
+      \endverb
+    \endentry
+    \entry{F3lixTutorial2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=82587094c297c4862ee539e1618b5d22}{%
+           family={F3lixTutorial},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{82587094c297c4862ee539e1618b5d22}
+      \strng{fullhash}{82587094c297c4862ee539e1618b5d22}
+      \strng{bibnamehash}{82587094c297c4862ee539e1618b5d22}
+      \strng{authorbibnamehash}{82587094c297c4862ee539e1618b5d22}
+      \strng{authornamehash}{82587094c297c4862ee539e1618b5d22}
+      \strng{authorfullhash}{82587094c297c4862ee539e1618b5d22}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Piezoelectric Constants}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.f3lix-tutorial.com/piezo-constants
+      \endverb
+      \verb{url}
+      \verb https://www.f3lix-tutorial.com/piezo-constants
+      \endverb
+    \endentry
+    \entry{Carter2023}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=e7fe37f84f9abb97937ddd1fb47b1a7e}{%
+           family={Carter},
+           familyi={C\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod}}}%
+        {{hash=08e42cf1c9732e2614bea66f152bec24}{%
+           family={Kensley},
+           familyi={K\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{386acb5b8e68d4d4a78ba31de1509942}
+      \strng{fullhash}{386acb5b8e68d4d4a78ba31de1509942}
+      \strng{bibnamehash}{386acb5b8e68d4d4a78ba31de1509942}
+      \strng{authorbibnamehash}{386acb5b8e68d4d4a78ba31de1509942}
+      \strng{authornamehash}{386acb5b8e68d4d4a78ba31de1509942}
+      \strng{authorfullhash}{386acb5b8e68d4d4a78ba31de1509942}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to Piezoelectricity}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://piezo.com/pages/intro-to-piezoelectricity
+      \endverb
+      \verb{url}
+      \verb https://piezo.com/pages/intro-to-piezoelectricity
+      \endverb
+    \endentry
+    \entry{Kim2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ebb0fea9e59d3539c9fafc5ad4d71641}{%
+           family={P},
+           familyi={P\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{ebb0fea9e59d3539c9fafc5ad4d71641}
+      \strng{fullhash}{ebb0fea9e59d3539c9fafc5ad4d71641}
+      \strng{bibnamehash}{ebb0fea9e59d3539c9fafc5ad4d71641}
+      \strng{authorbibnamehash}{ebb0fea9e59d3539c9fafc5ad4d71641}
+      \strng{authornamehash}{ebb0fea9e59d3539c9fafc5ad4d71641}
+      \strng{authorfullhash}{ebb0fea9e59d3539c9fafc5ad4d71641}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Average Weight of a Car May Surprise You}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.creditdonkey.com/average-weight-car.html#:~:text=The average weight of a car in kg is 1,302,more than the average car.
+      \endverb
+      \verb{url}
+      \verb https://www.creditdonkey.com/average-weight-car.html#:~:text=The%20average%20weight%20of%20a%20car%20in%20kg%20is%201,302,more%20than%20the%20average%20car.
+      \endverb
+    \endentry
+    \entry{khplant2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ecbaac81bfafeaa9db02d47fce4f4b54}{%
+           family={khplant},
+           familyi={k\bibinitperiod}}}%
+      }
+      \strng{namehash}{ecbaac81bfafeaa9db02d47fce4f4b54}
+      \strng{fullhash}{ecbaac81bfafeaa9db02d47fce4f4b54}
+      \strng{bibnamehash}{ecbaac81bfafeaa9db02d47fce4f4b54}
+      \strng{authorbibnamehash}{ecbaac81bfafeaa9db02d47fce4f4b54}
+      \strng{authornamehash}{ecbaac81bfafeaa9db02d47fce4f4b54}
+      \strng{authorfullhash}{ecbaac81bfafeaa9db02d47fce4f4b54}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Making Electricity from Traffic: Solar and Piezoelectric Roads Around the World}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.khplant.co.za/blog/making-electricity-traffic-solar-and-piezoelectric-roads-around-world/#:~:text=What are piezoelectric roads?,This produces energy.
+      \endverb
+      \verb{url}
+      \verb https://www.khplant.co.za/blog/making-electricity-traffic-solar-and-piezoelectric-roads-around-world/#:~:text=What%20are%20piezoelectric%20roads?,This%20produces%20energy.
+      \endverb
+    \endentry
+    \entry{Garland2013}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=4ab2c4d210dd238a3712d1a956b25b63}{%
+           family={Garland},
+           familyi={G\bibinitperiod},
+           given={Rex},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ab2c4d210dd238a3712d1a956b25b63}
+      \strng{fullhash}{4ab2c4d210dd238a3712d1a956b25b63}
+      \strng{bibnamehash}{4ab2c4d210dd238a3712d1a956b25b63}
+      \strng{authorbibnamehash}{4ab2c4d210dd238a3712d1a956b25b63}
+      \strng{authornamehash}{4ab2c4d210dd238a3712d1a956b25b63}
+      \strng{authorfullhash}{4ab2c4d210dd238a3712d1a956b25b63}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{month}{4}
+      \field{title}{Piezoelectric Roads in California}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://large.stanford.edu/courses/2012/ph240/garland1/
+      \endverb
+      \verb{url}
+      \verb http://large.stanford.edu/courses/2012/ph240/garland1/
+      \endverb
+    \endentry
+    \entry{M.VAZQUEZRODRIGUEZ2011}{article}{}
+      \name{author}{3}{}{%
+        {{hash=4b98bcfe514d4ef806f27063ab1d2b17}{%
+           family={Vázquez-Rodriguez},
+           familyi={V\bibinithyphendelim R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b05065dbc70d5686b8d8616c97bfd814}{%
+           family={Jiménez},
+           familyi={J\bibinitperiod},
+           given={F.\bibnamedelimi J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=4b202c41b013c4793589cdfbfead5405}{%
+           family={Frutos},
+           familyi={F\bibinitperiod},
+           given={J.\bibnamedelimi De},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{8976ae1c4ebcd2123377abb1281de421}
+      \strng{fullhash}{8976ae1c4ebcd2123377abb1281de421}
+      \strng{bibnamehash}{8976ae1c4ebcd2123377abb1281de421}
+      \strng{authorbibnamehash}{8976ae1c4ebcd2123377abb1281de421}
+      \strng{authornamehash}{8976ae1c4ebcd2123377abb1281de421}
+      \strng{authorfullhash}{8976ae1c4ebcd2123377abb1281de421}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Modeling Piezoelectric Harvesting Materials in Road Traffic Applications}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://oa.upm.es/21124/1/INVE_MEM_2011_124808.pdf
+      \endverb
+      \verb{url}
+      \verb https://oa.upm.es/21124/1/INVE_MEM_2011_124808.pdf
+      \endverb
+    \endentry
+    \entry{Najini2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f96211da25d2cd512473e54431d19367}{%
+           family={Najini},
+           familyi={N\bibinitperiod},
+           given={Hiba},
+           giveni={H\bibinitperiod}}}%
+        {{hash=60c782d6a1060f54c2529ab92ed04c45}{%
+           family={Muthukumaraswamy},
+           familyi={M\bibinitperiod},
+           given={Senthil\bibnamedelima Arumugam},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c4c5f161ae452ec1f432153c9d0383d8}
+      \strng{fullhash}{c4c5f161ae452ec1f432153c9d0383d8}
+      \strng{bibnamehash}{c4c5f161ae452ec1f432153c9d0383d8}
+      \strng{authorbibnamehash}{c4c5f161ae452ec1f432153c9d0383d8}
+      \strng{authornamehash}{c4c5f161ae452ec1f432153c9d0383d8}
+      \strng{authorfullhash}{c4c5f161ae452ec1f432153c9d0383d8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Piezoelectric Energy Generation from Vehicle Traffic with Technoeconomic Analysis}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.hindawi.com/journals/jre/2017/9643858/
+      \endverb
+      \verb{url}
+      \verb https://www.hindawi.com/journals/jre/2017/9643858/
+      \endverb
+    \endentry
+    \entry{Soler2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=80807a62e1b0ed1c4db9496b77710b63}{%
+           family={Solèr},
+           familyi={S\bibinitperiod},
+           given={Flurin},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{80807a62e1b0ed1c4db9496b77710b63}
+      \strng{fullhash}{80807a62e1b0ed1c4db9496b77710b63}
+      \strng{bibnamehash}{80807a62e1b0ed1c4db9496b77710b63}
+      \strng{authorbibnamehash}{80807a62e1b0ed1c4db9496b77710b63}
+      \strng{authornamehash}{80807a62e1b0ed1c4db9496b77710b63}
+      \strng{authorfullhash}{80807a62e1b0ed1c4db9496b77710b63}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Entwicklung einer Innensohlezur Energiegewinnung durch diemenschliche FortbewegungBetreut}
+      \field{title}{Piezoelectric Energy Harvesting}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.impulsmittelschule.ch/download/pictures/44/c3ldanq0pjo0k38kbsqbi4f8pb1vkt/0_solr_flurin-1520952783.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.impulsmittelschule.ch/download/pictures/44/c3ldanq0pjo0k38kbsqbi4f8pb1vkt/0_solr_flurin-1520952783.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
